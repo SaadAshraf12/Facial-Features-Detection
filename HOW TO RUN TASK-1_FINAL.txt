@@ -1,0 +1,26 @@
+How to Run the Script:
+
+1- Clone or download the project files to your local machine.
+
+2- Make sure the image you want to analyze is available and update its path in the script:
+image_path = "your-image-name.jpg"
+
+3- Install the required Python libraries by running:
+pip install opencv-python mediapipe matplotlib scikit-learn tensorflow
+
+4- Ensure the following files and directories are present in your project folder:
+a- gender_classification_saved_model/best_model_finetuned.keras
+b- glasses_classification_saved_model/best_model_finetuned.keras
+
+The image file to test (e.g. sample.jpg)
+
+5- Run the Python script using a command-line interface or from your IDE:
+python script_name.py
+
+6- The script will:
+a- Detect the face using MediaPipe
+b- Predict gender (male or female)
+c- Predict presence of glasses (glasses or no glasses)
+d- Estimate dominant shirt color using upper-body keypoints and color clustering
+e- Print results in the console
+f- Display the image with bounding box and prediction labels using matplotlib
