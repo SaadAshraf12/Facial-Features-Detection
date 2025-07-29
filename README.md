@@ -1,6 +1,3 @@
-Here’s a concise and clear **GitHub project description** based on your presentation:
-
----
 
 ### **Facial Features Detection System**
 
@@ -65,6 +62,3 @@ This project focuses on detecting key facial features from images using deep lea
 
 > Upload or capture a face image → Get gender, glasses status, and shirt color as output.
 
----
-
-Let me know if you also want a sample `README.md` file structure for this.
