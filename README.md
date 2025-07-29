@@ -62,3 +62,9 @@ This project focuses on detecting key facial features from images using deep lea
 
 > Upload or capture a face image → Get gender, glasses status, and shirt color as output.
 
+<img width="977" height="596" alt="image" src="https://github.com/user-attachments/assets/1de84445-e520-432f-b90d-dc95106b17fd" />
+
+<img width="595" height="783" alt="image" src="https://github.com/user-attachments/assets/41bc689d-6f62-4922-a543-4ff0de48bfc3" />
+
+
+
